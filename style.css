@@ -18,4 +18,16 @@
   color: burlywood;
   font-family: Arial, 'Helvetica', sans-serif;
   font-size: 40px;
+  float: left;
+  width: 1000px;
+}
+
+.cool {
+  padding: 20px;
+  border: 3px solid saddlebrown;
+  overflow: auto;
+}
+
+.pic {
+  float: right;
 }
